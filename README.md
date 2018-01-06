@@ -18,3 +18,14 @@ git pull origin master
 
 3.Permission to hanxuwu/Learning-Git.git denied to zeromov:
   Manage windows Credentials
+
+
+# version 0.0.2  modify the testGit and push the commit
+
+TIPS:after clone you need to use:
+> cd ./Learning-Git    to change the direction to the folder with .git   otherwise   fatal: Not a git repository (or any of the parent directories) 
+
+then use:
+> git push origin master
+
+to push the commit
