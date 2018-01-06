@@ -7,7 +7,7 @@ for i in range(5):
     print(i)
 
 # add branch
-print('second version 0.0.3')
+print('third version 0.0.3')
 # add function
 def print_list():
     L = ['a', 'b', 'c']
@@ -17,5 +17,9 @@ def print_list():
 print_list()
 
 # still in  branch
-print('second version 0.0.4')
+print('forth version 0.0.4')
 print("Solution")
+
+# still in  branch after master add solution2
+print('fifth version 0.0.5')
+print("fix solution")

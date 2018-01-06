@@ -9,3 +9,6 @@ add branch
 ## Version 0.0.4 (solution 1)
 still in branch
 
+## Version 0.0.5 (fix solution 1)
+still in  branch after master add solution2
+
