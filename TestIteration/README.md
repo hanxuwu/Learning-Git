@@ -20,4 +20,6 @@ merge the branch
 
 ## upload screenshot picture
 
+## show the route in md
 
+![Image](https://github.com/hanxuwu/Learning-Git/blob/master/TestIteration/Screenshot/Route.PNG)
