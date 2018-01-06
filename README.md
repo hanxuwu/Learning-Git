@@ -42,3 +42,6 @@ misuse it in git shell forget to use it in git bash
 
 use it in git bash
 
+# version 0.0.5  The method in version 0.0.4 still doesn't work
+
+
