@@ -18,3 +18,6 @@ still in  branch after master add solution2
 ## Version 0.1.0 (merge solution)
 merge the branch
 
+## upload screenshot picture
+
+
