@@ -35,3 +35,10 @@ to push the commit
 Q:There is a "Push" menu item, but when I click on it, nothing happens except for a subtle progressing bar showing up and never finished. From Visual Studio Code's Docs page, I found this line: "Credential management is not handled by VSCode for now," and that page links to a GitHub page on credential helper, which is too specific for other remote server (in my case, bitbucket) and not specific enough on how to set up for VS Code.
 
 A:  -- git config --global credential.helper wincred
+
+
+# version 0.0.4  The method in version 0.0.3 doesn't work
+misuse it in git shell forget to use it in git bash
+
+use it in git bash
+
