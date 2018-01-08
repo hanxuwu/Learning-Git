@@ -48,5 +48,6 @@ use it in git bash
 
 undo the last commit in local  
 try use  'the git push <remote> <branch> --force ' to amend the comment in github
+git push -f  origin master     modified the github commit local history
 
 
