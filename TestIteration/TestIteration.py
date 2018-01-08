@@ -26,3 +26,7 @@ print("Solution")
 # still in  branch after master add solution2
 print('fifth version 0.0.5')
 print("fix solution")
+
+
+# push the version with wrong message
+print('sixth version 0.0.6')

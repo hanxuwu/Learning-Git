@@ -44,4 +44,9 @@ use it in git bash
 
 # version 0.0.5  The method in version 0.0.4 still doesn't work
 
+# version 0.0.6  push the  version with wrong comment
+
+undo the last commit in local  
+try use  'the git push <remote> <branch> --force ' to amend the comment in github
+
 
