@@ -63,5 +63,21 @@ Then you just need to add the files you want to ignore to that file
 ![Image](https://github.com/hanxuwu/Learning-Git/blob/master/Githug/SCREENSHOT/7a.PNG) 
 
 
+## 8. include  
+![Image](https://github.com/hanxuwu/Learning-Git/blob/master/Githug/SCREENSHOT/8.PNG)   
+`*.a`  
+`!lib.a`  
+![Image](https://github.com/hanxuwu/Learning-Git/blob/master/Githug/SCREENSHOT/8a.PNG)  
+
+
+## 9. status  
+![Image](https://github.com/hanxuwu/Learning-Git/blob/master/Githug/SCREENSHOT/9.PNG)   
+use git status  
+`git status`  
+![Image](https://github.com/hanxuwu/Learning-Git/blob/master/Githug/SCREENSHOT/9a.PNG)  
+
+## 10.number of files committed  
+![Image](https://github.com/hanxuwu/Learning-Git/blob/master/Githug/SCREENSHOT/10.PNG)   
+
 
 
