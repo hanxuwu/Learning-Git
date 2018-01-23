@@ -83,3 +83,9 @@ use git status
 
 
 
+## 11.rm  
+`git status`  
+`git rm deleteme.rb`  
+![Image](https://github.com/hanxuwu/Learning-Git/blob/master/Githug/SCREENSHOT/10a.PNG)  
+
+
