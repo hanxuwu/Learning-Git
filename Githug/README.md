@@ -88,4 +88,8 @@ use git status
 `git rm deleteme.rb`  
 ![Image](https://github.com/hanxuwu/Learning-Git/blob/master/Githug/SCREENSHOT/10a.PNG)  
 
+## 12.rm_cached
+
+`git rm --cached deleteme.rb`
+
 
