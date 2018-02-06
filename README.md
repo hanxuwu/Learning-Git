@@ -50,5 +50,13 @@ undo the last commit in local
 try use  'the git push <remote> <branch> --force ' to amend the comment in github
 git push -f  origin master     modified the github commit local history
 
+# version 1.0.1   test Merge
 
 # modify the master after create release branch and developing branch
+# version 1.0.2   modified v1.0.1  
+
+# version 1.0.9  Release version
+
+# merge realease to master  
+
+use VSCODE --  F1 merge  
