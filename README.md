@@ -51,3 +51,4 @@ try use  'the git push <remote> <branch> --force ' to amend the comment in githu
 git push -f  origin master     modified the github commit local history
 
 
+# modify the master after create release branch and developing branch
