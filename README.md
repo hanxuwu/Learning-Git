@@ -23,7 +23,7 @@ git pull origin master
 # version 0.0.2  modify the testGit and push the commit
 
 TIPS:after clone you need to use:
-> cd ./Learning-Git    to change the direction to the folder with .git   otherwise   fatal: Not a git repository (or any of the parent directories) 
+> cd ./Learning-Git    to change the direction to the folder with .git   otherwise   fatal: Not a git repository (or any of the parent directories)
 
 then use:
 > git push origin master
@@ -46,17 +46,20 @@ use it in git bash
 
 # version 0.0.6  push the  version with wrong comment
 
-undo the last commit in local  
+undo the last commit in local
 try use  'the git push <remote> <branch> --force ' to amend the comment in github
 git push -f  origin master     modified the github commit local history
 
 # version 1.0.1   test Merge
 
 # modify the master after create release branch and developing branch
-# version 1.0.2   modified v1.0.1  
+# version 1.0.2   modified v1.0.1
 
 # version 1.0.9  Release version
 
-# merge realease to master  
+# merge realease to master
 
-use VSCODE --  F1 merge  
+use VSCODE --  F1 merge
+
+
+# Feature report
